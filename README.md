@@ -12,7 +12,7 @@ For support on the package, pleae contact the Refinitv support team.
 
 The package includes all functionalities required to get data from DataStream, in the form of Pandas DataFrames.
 
-*The package refers to [this product](websitetwo). If the user needs to change this to another url or direct deliver IP, the config file can be used, with the path provided explicitly in the code. Please refer to **Appendix 2** for config details.*
+*The package refers to [this product](https://product.datastream.com). If the user needs to change this to another url or direct deliver IP, the config file can be used, with the path provided explicitly in the code. Please refer to [**Appendix 2**](#Appendix-2) for config details.*
 
 ## Requirements
 
@@ -28,7 +28,7 @@ pip install pytz
 
 ## Usage
 
-This library interacts with the [Refinitiv's](website) API to:
+This library interacts with the [Refinitiv's](https://developers.refinitiv.com/en/api-catalog) API to:
 - [Make time series requests](#Time-series-requests).
 - [Get bundle data](#Using-get_bundle_data).
 - [Retrieving data for a list.](#Retrieving-data-for-a-List)
@@ -37,7 +37,7 @@ This library interacts with the [Refinitiv's](website) API to:
 - [Retrieve data for NDOR.](#Retrieving-data-for-an-NDOR)
 - [Retrieve data for a point in time.](#Retrieving-data-for-a-point-in-time)
 - [Collect usage stats.](#Usage-Stats)
-- [Return the indtrument and Datatype names.](#Using-get_bundle_data-function)
+- [Return the instrument and Datatype names.](#Using-get_bundle_data-function)
 
 
 In order to install the package:
